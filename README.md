@@ -35,6 +35,7 @@ cdでDesktopに移動した上で以下のコマンドを実行してくださ�
 1. git add ファイル名  
 1. あとは前述の **◆修正ファイルのコミット方法** と同様  
 
+以上です。 
 修正した全てのファイルをコミットする場合は「git add --all」としてください。
 ***
 
@@ -43,6 +44,7 @@ cdでDesktopに移動した上で以下のコマンドを実行してくださ�
 - コマンド  
 https://qiita.com/fukumone/items/73e1a9a62c5e4454263b  
 - 利用方法  
-https://unko.com
+https://backlog.com/ja/git-tutorial/  
+
 ※デグレにはくれぐれも注意！！SVNやCVSと異なる考え方をする箇所もあるため仕組みを理解するようにしましょう！！
  
