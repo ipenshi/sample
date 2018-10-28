@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Modules/RCTStatusBarManager.m \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Modules/RCTStatusBarManager.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/shimpei/Desktop/sample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/shimpei/Desktop/sample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/shimpei/Desktop/sample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Modules/RCTEventEmitter.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/shimpei/Desktop/sample/node_modules/react-native/React/Base/RCTEventDispatcher.h
