@@ -9,15 +9,17 @@ githubの利用、react-nativeの実装、稼動、etc…　練習用のリポ�
   - react-native: 0.57.0  
 
 ### ◆開発リポジトリ取得方法
-  cdでDesktopに移動した上で以下のコマンドを実行  
-  - git clone https://github.com/ipenshi/sample.git  
-  以上！
+cdでDesktopに移動した上で以下のコマンドを実行  
+  1. git clone https://github.com/ipenshi/sample.git  
+
+以上！
   
 ### ◆修正ファイルコミット方法
-  以下のコマンドを実行  
-  - git commit -m "コメント"  
-  - git push  
-  以上！  
-  ①でローカルリポジトリにコミット、②でＷEB上のリポジトリにコミットしている。  
+以下のコマンドを実行  
+  1. git commit -m "コメント"  
+  1. git push  
+  
+以上！  
+①でローカルリポジトリにコミット、②でＷEB上のリポジトリにコミットしている。  
 
 ### ◆新規ファイルコミット方法
