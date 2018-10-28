@@ -47,4 +47,4 @@ https://qiita.com/fukumone/items/73e1a9a62c5e4454263b
 https://backlog.com/ja/git-tutorial/  
 
 ※デグレにはくれぐれも注意！！SVNやCVSと異なる考え方をする箇所もあるため仕組みを理解するようにしましょう！！
- 
+***
