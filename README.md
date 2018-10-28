@@ -1,5 +1,7 @@
 # sample
-githubの利用、react-nativeの実装、稼動、etc…　練習用のリポジトリ。練習用。
+githubの利用方法、react-nativeでの初めての開発、etc…　もろもろ練習用のリポジトリ。  
+このページの修正は以下のサイトを参照しながら行ってください。  
+https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa  
 
 ## 初期設定  
 ### ◆環境  
@@ -38,6 +40,9 @@ cdでDesktopに移動した上で以下のコマンドを実行してくださ�
 
 ### ◆その他のgithubコマンドなど  
 コマンドは以下のサイトを参照してください。  
-** 工事中 **  
+- コマンド  
+https://qiita.com/fukumone/items/73e1a9a62c5e4454263b  
+- 利用方法  
+https://unko.com
 ※デグレにはくれぐれも注意！！SVNやCVSと異なる考え方をする箇所もあるため仕組みを理解するようにしましょう！！
  
