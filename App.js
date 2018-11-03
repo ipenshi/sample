@@ -46,7 +46,7 @@ class App extends Component {
         <Header showText="ログイン" />
         {this.renderForm()}
         <View>
-          <Text>{this.state.loggedIn ? "ログイン中だよ！" : "ログインしてないよ！うんこ！"}</Text>
+          <Text>{this.state.loggedIn ? "ログイン中だよ！" : "ログインしてないよ！"}</Text>
         </View>
       </View>
     )
