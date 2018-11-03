@@ -44,8 +44,8 @@ cdでDesktopに移動した上で以下のコマンドを実行してくださ�
 コマンドは以下のサイトを参照してください。  
 - コマンド  
 https://qiita.com/fukumone/items/73e1a9a62c5e4454263b  
-- 利用方法  
-https://backlog.com/ja/git-tutorial/  
+- 公式マニュアル   
+https://git-scm.com/book/ja/v2
 
 ※デグレにはくれぐれも注意！！SVNやCVSと異なる考え方をする箇所もあるため仕組みを理解するようにしましょう！！
 ***
